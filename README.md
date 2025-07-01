@@ -1,4 +1,4 @@
-### Hi there 👋
+### Desenvolvedor de Software com foco em python e Django 👋
 
 <!--
 **eduardopdev/eduardopdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
